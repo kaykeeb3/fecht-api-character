@@ -33,7 +33,7 @@
 
 ## 🤝 Contribuição
 
-Contribuições são bem-vindas! Sinta-se à vontade para melhorar este código. Consulte as [diretrizes de contribuição](CONTRIBUTING.md) para obter mais informações.
+Contribuições são bem-vindas! Sinta-se à vontade para melhorar este código.
 
 ## 📄 Licença
 
