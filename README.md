@@ -27,7 +27,7 @@
 
 - Exibição de personagens das séries **"Rick and Morty e Pokémon"** com informações detalhadas.
 - Utiliza a busca de API do próprio JavaScript.
-- Pesquisa de personagens por nome.
+- Pesquisa de personagens por nome. ***( fazendo)***
 - Tradução de status para o português do Brasil.
 - Design no modo escuro (dark mode) usando Tailwind CSS.
 
